@@ -5,7 +5,7 @@ using DocuSign.eSign.Model;
 
 namespace eg_03_csharp_auth_code_grant_core.Examples
 {
-    public static class CreateAndSendEnvelopeFromTemplate
+    public static class CreateEnvelopeFromTemplate
     {
         private static EnvelopeDefinition MakeEnvelope(string signerEmail, string signerName,
             string ccEmail, string ccName, string templateId)

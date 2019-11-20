@@ -39,7 +39,7 @@ namespace eg_03_csharp_auth_code_grant_core.Controllers
                 return Redirect("/ds/mustAuthenticate");
             }
 
-            string envelopeId = Examples.CreateAndSendEnvelopeFromTemplate.SendEnvelopeFromTemplate(signerEmail, signerName, ccEmail, ccName, accessToken, basePath, accountId, templateId);
+            string envelopeId = Examples.CreateEnvelopeFromTemplate.SendEnvelopeFromTemplate(signerEmail, signerName, ccEmail, ccName, accessToken, basePath, accountId, templateId);
 
             RequestItemsService.EnvelopeId = envelopeId;
             ViewBag.message = "The envelope has been created and sent!<br/>Envelope ID " + envelopeId + ".";
