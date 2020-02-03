@@ -1,0 +1,23 @@
+{
+  "Title": "Change a Major/Minor Field",
+  "SubmitInfo": "After submitting this request, it will be routed to our administration department for further proccessing.",
+  "FirstName": "First Name",
+  "LastName": "Last Name",
+  "Email": "Email",
+  "MinorField": "Minor Field",
+  "MajorField": "Major Field",
+  "SubmitButton": "Request for Field Change",
+  "SubmitButtonClicked": "Requesting...",
+  "Courses": ["Art", "Psychology”, “Computer Science", "World History", "Philosophy", "Education", "Biology", "Physics”, “Chemistry", "Sociology", "Architecture", "Archeology", "Environmental Studies", "Political Science", "Engineering", "English", "Mathematics", “Statistics”, “Theology”, “Business”],
+  "Error": {
+    "FirstName": "First Name is required.",
+    "LastName": "Last Name is required.",
+    "Email": "Email is required.",
+    "MinorField": "Please select a field to change.",
+    "MajorField": "Please select a field to change."
+  },
+  "ApiDecription": {
+    "SeeMore": "- See behind the scenes",
+    "CodeFlow": " <h3>This Sample Features</h3> <br /> Single Signer <br /> DOCX Import <br /> Auto-Place (Anchor) Tab Positioning <br /> Embdedded Signing (Recipient View) <br /> Access Code Authentification <br /> Code Flow:"
+  }
+}
