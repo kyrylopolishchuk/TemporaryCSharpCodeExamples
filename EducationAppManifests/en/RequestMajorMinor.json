@@ -8,7 +8,7 @@
   "MajorField": "Major Field",
   "SubmitButton": "Request for Field Change",
   "SubmitButtonClicked": "Requesting...",
-  "Courses": ["Art", "Psychology”, “Computer Science", "World History", "Philosophy", "Education", "Biology", "Physics”, “Chemistry", "Sociology", "Architecture", "Archeology", "Environmental Studies", "Political Science", "Engineering", "English", "Mathematics", “Statistics”, “Theology”, “Business”],
+  "Courses": ["Art", "Psychology", "Computer Science", "World History", "Philosophy", "Education", "Biology", "Physics", “Chemistry", "Sociology", "Architecture", "Archeology", "Environmental Studies", "Political Science", "Engineering", "English", "Mathematics", "Statistics", "Theology", "Business"],
   "Error": {
     "FirstName": "First Name is required.",
     "LastName": "Last Name is required.",
