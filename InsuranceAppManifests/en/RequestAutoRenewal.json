@@ -1,0 +1,22 @@
+{
+  "Title": "Auto renewal Agreement",
+  "FirstName": "First Name",
+  "LastName": "Last Name",
+  "Email": "Email",
+  "SubmitButton": "Submit for Renewal",
+  "SubmitButtonClicked": "Requesting...",
+  "Error": {
+    "FirstName": "First Name is required.",
+    "LastName": "Last Name is required.",
+    "Email": "Email is required."
+  },
+  "ApiDecription": {
+    "SeeMore": "- See behind the scene",
+    "CodeFlow": " <h3>This Sample Features</h3> <br /> Single Signer <br /> DOCX Import <br /> Auto-Place (Anchor) Tab Positioning <br /> Embdedded Signing (Recipient View) <br /> Access Code Authentification <br /> <br /> <h3>Code Flow:"
+  },
+  "Renewal": {
+    "TermsName": "Renewal Terms",
+    "DisplayName": "Insurance renewal terms",
+    "TermsRenewal": "By accepting these conditions you are giving your consent to a digital only delivery of the policy renewal documents. You will not be sent an email with renewal documentation to help preserve the trees."
+  }
+}
