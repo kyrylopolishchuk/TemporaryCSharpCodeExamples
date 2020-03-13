@@ -18,6 +18,6 @@
   },
   "ApiDecription": {
     "SeeMore": "- See behind the scenes",
-    "CodeFlow": " <h3>This Sample Features</h3> <br /> Single Signer <br /> DOCX Import <br /> Auto-Place (Anchor) Tab Positioning <br /> Embdedded Signing (Recipient View) <br /> Access Code Authentification <br /> Code Flow:"
+    "CodeFlow": " <h3>This Sample Features</h3> <br /> Single Signer <br /> HTML Import <br /> Auto-Place (Anchor) Tab Positioning <br /> Embdedded Signing (Recipient View) <br /> Access Code Authentification <br /> Code Flow:"
   }
 }
