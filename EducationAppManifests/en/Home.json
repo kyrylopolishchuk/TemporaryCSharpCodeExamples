@@ -1,6 +1,6 @@
 {
   "Header1": "Welcome to MyUni",
-  "Header2": "Students Portal - For all your Student Needs",
+  "Header2": "Students Portal - For All Your Student Needs",
   "Footer1": "DocuSign: The easiest way to get things done",
   "Footer2": "<p>DocuSign helps organizations connect and automate how they prepare, sign, act on and manage agreements. Over 500,000 customers worldwide</p>",
   "SandBoxButton": "Create Sandbox",
@@ -20,7 +20,7 @@
   "Card3": {
     "Title": "Sign-up <br /> for Extracurricular Activities",
     "Description": "One stop shop for all your non-academics passions.",
-    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Payment tabs</li><li>Using Payment Gateway</li><li>JWT Authentication</li><li>Routing Order</li><li>Embedded Signing</li><li>Complex Document Visibility</li></ul>",
+    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Payment tabs</li><li>Using Payment Gateway</li><li>JWT Authentication</li><li>Routing Order</li><li>Embedded Signing</li></ul>",
     "Button": "Get Started"
   }
 }

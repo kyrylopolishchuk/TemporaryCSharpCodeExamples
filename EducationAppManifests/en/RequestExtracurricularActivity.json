@@ -1,5 +1,5 @@
 {
-  "Title": "Sing-up for Extracurricular Activities",
+  "Title": "Sign-up for Extracurricular Activities",
   "SubmitInfo": "By completing the form, you are agreeing to pay for the activity. The system will transfer you to the payment form after signing.",
   "FirstName": "First Name",
   "LastName": "Last Name",
@@ -33,7 +33,7 @@
     }
   ],
   "Total": "TOTAL",
-  "SubmitButton": "Proceed with Sigh-Up",
+  "SubmitButton": "Proceed with sign-up",
   "SubmitButtonClicked": "Proceeding...",
   "Error": {
     "FirstName": "First name is required.",
