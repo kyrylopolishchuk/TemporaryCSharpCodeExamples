@@ -1,8 +1,8 @@
-{
+﻿{
   "ApplicationName": "MySure",
   "Title": "MySure",
   "TransactionHistoryLink": "Status",
-  "GitHubLink": "GitHub Sourse",
+  "GitHubLink": "GitHub Source",
   "AboutLink": "About",
   "Copyright": "© 2020 DocuSign Inc."
 }
