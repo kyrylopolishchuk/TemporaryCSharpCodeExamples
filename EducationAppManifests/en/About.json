@@ -2,7 +2,7 @@
   "Title": "MyUni Sample App",
   "Description": "<p>A sample MyUni application that demonstrates some common DocuSign APIs workflows including DocuSign eSignature API, DocuSign Click API, DocuSign payments and DocuSign Connect.</p></p>",
   "SourceButton": "Source on GitHub ",
-  "GitHubLink": "https://github.com/docusign/Sigma-EducationApp/",
+  "GitHubLink": "https://github.com/docusign/sample-app-myuni-python",
   "SandboxText": "<h4>Get Started with the DocuSign API Today</h4>",
   "SandboxButton": "Get Your Sandbox",
   "Description2": "<p>  <br></br>  With the Developer Sandbox you can test our APIs for free!  Sandbox accounts do not expire and have Enterprise level  features enabled.</p>",
