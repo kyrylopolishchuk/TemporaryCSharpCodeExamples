@@ -8,19 +8,19 @@
   "Card1": {
     "Title": "Change <br /> a Major/Minor Field",
     "Description": "Submit a form requesting changes to your major and/or minor fields of study.",
-    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Single Signer</li><li>JWT Authentication</li><li>Fill tab data</li><li>Import HTML doc</li><li>Embedded Signing</li><li>Sign without leaving the website</li></ul>",
+    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Update recipient information</li><li>Create envelope from HTML Import</li><li>Fill tab data</li><li>Embedded signing (recipient view)</li></ul>",
     "Button": "Get Started"
   },
   "Card2": {
     "Title": "Request <br /> an Unofficial Transcript",
     "Description": "Get your unofficial transcript in seconds.",
-    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Show Clickwrap to user</li><li>JWT Authentication</li><li>DocuSign Click</li><li>DocuSign Click API</li></ul>",
+    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Creating a clickwrap<li>Embedding clickwrap on your site</li></ul>",
     "Button": "Get Started"
   },
   "Card3": {
     "Title": "Sign-up <br /> for Extracurricular Activities",
     "Description": "One stop shop for all your non-academics passions.",
-    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Payment tabs</li><li>Using Payment Gateway</li><li>JWT Authentication</li><li>Routing Order</li><li>Embedded Signing</li></ul>",
+    "Features": "<h4 class='h4 card-info-list-title'>DocuSign Features:</h4><ul class='custom-list'><li>Update recipient information<li>Create envelope from HTML import<li>Fill tab data<li>Embedded signing (recipient view)<li>Request payment</li></ul>",
     "Button": "Get Started"
   }
 }
